@@ -161,5 +161,7 @@ public class Oca {
             }
         }
     }
+
+    private String polla = "Polla";
     
 }
